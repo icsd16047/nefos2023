@@ -1,0 +1,10 @@
+sanic==23.6.0
+Sanic-Auth==0.3.0
+sanic-routing==23.6.0
+PyJWT
+sanic-ext
+sqlalchemy
+aiomysql
+greenlet
+async-sqlalchemy
+pymysql
